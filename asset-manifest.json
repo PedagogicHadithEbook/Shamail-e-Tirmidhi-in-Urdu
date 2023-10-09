@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Shamail-e-Tirmidhi-in-Urdu/static/css/main.b13bfd9a.css",
-    "main.js": "/Shamail-e-Tirmidhi-in-Urdu/static/js/main.b5537d8d.js",
+    "main.js": "/Shamail-e-Tirmidhi-in-Urdu/static/js/main.155faa49.js",
     "static/js/787.1f5a3f02.chunk.js": "/Shamail-e-Tirmidhi-in-Urdu/static/js/787.1f5a3f02.chunk.js",
-    "static/media/Home3.PNG": "/Shamail-e-Tirmidhi-in-Urdu/static/media/Home3.8a7c2727f8091eb584f8.PNG",
+    "static/media/Home3.PNG": "/Shamail-e-Tirmidhi-in-Urdu/static/media/Home3.0c6ee47d74e881807712.PNG",
     "index.html": "/Shamail-e-Tirmidhi-in-Urdu/index.html",
     "main.b13bfd9a.css.map": "/Shamail-e-Tirmidhi-in-Urdu/static/css/main.b13bfd9a.css.map",
-    "main.b5537d8d.js.map": "/Shamail-e-Tirmidhi-in-Urdu/static/js/main.b5537d8d.js.map",
+    "main.155faa49.js.map": "/Shamail-e-Tirmidhi-in-Urdu/static/js/main.155faa49.js.map",
     "787.1f5a3f02.chunk.js.map": "/Shamail-e-Tirmidhi-in-Urdu/static/js/787.1f5a3f02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b13bfd9a.css",
-    "static/js/main.b5537d8d.js"
+    "static/js/main.155faa49.js"
   ]
 }
